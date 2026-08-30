@@ -1,5 +1,8 @@
 # Sales Bundle Lambda
 
+> [!WARNING]
+> **Archive Notice**: This project is archived and is no longer being maintained. It will not receive any further updates.
+
 An AWS Lambda function written in Go that scrapes sales data from a configured URL and uploads the raw JSON payload to an S3 bucket.
 
 ## Overview
